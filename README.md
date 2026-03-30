@@ -18,7 +18,7 @@ With this script, you can log in, follow/unfollow users, send messages, and fetc
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python 3
+- 🐍 Python 
 - 🤖 Instabot
 - 🌐 Instagram API (via Instabot)
 
